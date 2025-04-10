@@ -6,12 +6,6 @@ Este repositório contém o material utilizado nos encontros do POBI (Preparató
 
 O POBI é um grupo dedicado à preparação para a Olimpíada Brasileira de Informática, enquanto o GEMP é voltado para o estudo e prática de algoritmos para competições de programação, como a Maratona de Programação.
 
-## Como Participar
-
-Para participar dos nossos grupos de estudos, junte-se ao nosso grupo no Telegram:
-
-- **Grupo no Telegram:** [Inscreva-se aqui](https://t.me/+x5eWynHjihAwZDVh)
-
 ## Horário dos Encontros
 
 Os encontros acontecem todas as segundas-feiras, às 13h30, no bloco 2 - Lab de Redes.
